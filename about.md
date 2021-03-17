@@ -2,7 +2,7 @@
 title: 关于本站
 description: 经纬wiki搭建指南
 published: true
-date: 2021-03-17T07:31:38.446Z
+date: 2021-03-17T07:52:58.042Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T07:31:38.446Z
@@ -20,7 +20,7 @@ Use [wiki-js](https://github.com/Requarks/wiki) as main application, other servi
 
 ## Deploy
 
-1. Buy a domain, or apply a subdomain of [sgg.whu.wdu.cn](sgg.whu.edu.cn).
+1. Buy a domain, or apply a subdomain of [sgg.whu.wdu.cn](https://www.sgg.whu.edu.cn).
 2. Deploy wiki and postgres with docker.
 3. Configure email and ssl.
 4. install git lfs and ossutil.
