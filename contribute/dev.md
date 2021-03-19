@@ -2,13 +2,13 @@
 title: 开发指南
 description: 经纬wiki搭建指南
 published: true
-date: 2021-03-19T03:51:27.735Z
+date: 2021-03-19T03:56:29.892Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T07:31:38.446Z
 ---
 
-# About Jingwei wiki
+# How to contribute code
 
 ## Technique
 
