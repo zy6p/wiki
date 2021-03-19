@@ -2,7 +2,7 @@
 title: 开发指南
 description: 经纬wiki搭建指南
 published: true
-date: 2021-03-19T03:56:29.892Z
+date: 2021-03-19T12:43:52.192Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-17T07:31:38.446Z
@@ -30,5 +30,8 @@ Use [wiki-js](https://github.com/Requarks/wiki) as main application, other servi
 1. Use git hooks to auto deploy images.
 2. Add analyse.
 3. Integeate whu sso, or whu email register.
-4. Realize Chinese search.
+4. Realize Chinese search(Baidu search need a whu domain).
 5. Database backup.
+6. Monitor new illegal comments and visualization(py sql).
+7. Comments reply somebody.
+8. Subtitle super link.
