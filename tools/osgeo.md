@@ -2,7 +2,7 @@
 title: 开源 GIS
 description: 
 published: true
-date: 2021-04-16T05:59:29.266Z
+date: 2021-04-17T08:39:08.772Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-16T05:59:29.266Z
@@ -39,4 +39,8 @@ PostGIS
 ## 管理系统
 
 GeoNetwork
+
+## 数据格式
+
+* [shapefile](http://switchfromshapefile.org/)
 
