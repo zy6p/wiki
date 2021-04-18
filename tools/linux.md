@@ -2,7 +2,7 @@
 title: linux高效开发
 description: 
 published: true
-date: 2021-04-16T05:48:05.036Z
+date: 2021-04-18T02:18:31.565Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-16T05:48:05.036Z
@@ -35,6 +35,8 @@ Linux 是一种自由和开放源码的类UNIX操作系统。
     linux 上有超多开源免费软件，工具很多，GitHub资源丰富。
 
 ### 缺点
+
+国外总结：[英文版](http://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html)，[中文版](https://www.oschina.net/translate/why-linux-is-not-ready-for-the-desktop-current)(2013版，现不是很适用)
 
 * 国内软件支持很差。
     比如 qq、微信、腾讯会议、微信开发者工具、qq音乐、网易云、百度网盘等。一般都有 wine 版，但体验一般。
